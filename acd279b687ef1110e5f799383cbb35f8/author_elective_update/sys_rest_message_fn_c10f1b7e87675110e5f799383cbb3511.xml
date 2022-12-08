@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>client_id=5Dciig8ZkdwuYDRAkQPAD9uuPQjb4xoG;client_secret=gHbCOpzuHMdQvrxI</content>
+        <function_name>Default GET</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>BuscaTokenBoticario [ Default GET ]</qualified_name>
+        <rest_endpoint>https://dapi.grupoboticario.digital/global/v1/jwt-token/token</rest_endpoint>
+        <rest_message display_value="BuscaTokenBoticario">0e4edb3e87675110e5f799383cbb3595</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 20:51:39</sys_created_on>
+        <sys_id>c10f1b7e87675110e5f799383cbb3511</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="IPLookup" source="x_845390_iplookup">acd279b687ef1110e5f799383cbb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">acd279b687ef1110e5f799383cbb35f8</sys_scope>
+        <sys_update_name>sys_rest_message_fn_c10f1b7e87675110e5f799383cbb3511</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-07 20:57:31</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">acd279b687ef1110e5f799383cbb35f8</application>
+        <file_path/>
+        <instance_id>f479e4a3db346300ff27d5b0cf96190e</instance_id>
+        <instance_name>dev71989</instance_name>
+        <name>sys_rest_message_fn_c10f1b7e87675110e5f799383cbb3511</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content>client_id=5Dciig8ZkdwuYDRAkQPAD9uuPQjb4xoG;client_secret=gHbCOpzuHMdQvrxI</content><function_name>Default GET</function_name><http_method>post</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>BuscaTokenBoticario [ Default GET ]</qualified_name><rest_endpoint>https://dapi.grupoboticario.digital/global/v1/jwt-token/token</rest_endpoint><rest_message display_value="BuscaTokenBoticario">0e4edb3e87675110e5f799383cbb3595</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-07 20:51:39</sys_created_on><sys_id>c10f1b7e87675110e5f799383cbb3511</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="IPLookup" source="x_845390_iplookup">acd279b687ef1110e5f799383cbb35f8</sys_package><sys_policy/><sys_scope display_value="IPLookup">acd279b687ef1110e5f799383cbb35f8</sys_scope><sys_update_name>sys_rest_message_fn_c10f1b7e87675110e5f799383cbb3511</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-07 20:57:31</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>638240420</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>2cd279b687ef1110e5f799383cbb35fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 20:57:31</sys_created_on>
+        <sys_id>1f502b7e87675110e5f799383cbb353d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184ee6119e30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-07 20:57:31</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>57502b7ef86751103a25186b11b09e3d</update_guid>
+        <update_guid_history>57502b7ef86751103a25186b11b09e3d:638240420,74efd7f62b675110cf830d6eeb37a020:2082039211,7d8fdf7e4e675110200860e8cb6bec9a:1955587543,c10f1b7eef67511087699f590be9e113:1823369137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 21:14:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>f3d7b649f90d4b20a89d6d546b26cc40</sys_id>
+        <sys_metadata>c10f1b7e87675110e5f799383cbb3511</sys_metadata>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="IPLookup" source="x_845390_iplookup">acd279b687ef1110e5f799383cbb35f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">acd279b687ef1110e5f799383cbb35f8</sys_scope>
+        <sys_scope_delete display_value="">2b89864e038845a59b69bf8eadd49eb1</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_c10f1b7e87675110e5f799383cbb3511</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_c10f1b7e87675110e5f799383cbb3511">1f502b7e87675110e5f799383cbb353d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
