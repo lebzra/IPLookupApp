@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_845390_iplookup.ipaddressinfo_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>ipaddressinfo_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-08 02:01:41</sys_created_on>
+        <sys_id>fef5640f876b5110e5f799383cbb35c3</sys_id>
+        <sys_name>x_845390_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_845390_iplookup">acd279b687ef1110e5f799383cbb35f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">acd279b687ef1110e5f799383cbb35f8</sys_scope>
+        <sys_update_name>sys_user_role_fef5640f876b5110e5f799383cbb35c3</sys_update_name>
+    </sys_user_role>
+</record_update>
